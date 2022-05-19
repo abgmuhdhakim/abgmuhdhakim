@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abgmuhdhakim
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning GitHub
+- 👀 I’m interested in game and anime
+- 🌱 I’m currently learning GitHub and Unity engine
 - 📫 How to reach me abgmuhdhakim@gmail.com
 
 <!---
